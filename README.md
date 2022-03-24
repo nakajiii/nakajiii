@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=nakajiii&title=Commits)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **nakajiii/nakajiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
