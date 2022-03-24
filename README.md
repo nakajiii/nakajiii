@@ -2,7 +2,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nakajiii&title=Commits)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nakajiii&theme=monokai)
 <!--
 **nakajiii/nakajiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
